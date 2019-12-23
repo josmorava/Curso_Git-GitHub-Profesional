@@ -1,2 +1,2 @@
-# Curso_Git-GitHub-Profesional
-*Créditos a Platzi.
+#Hyperblog
+Un blog increíble para el curso de Git y GitHub de Platzi.
