@@ -6,3 +6,7 @@ body{
 .header{
     color: pink;
 }
+.footer{
+    background: red;
+    text-align: center;
+}
